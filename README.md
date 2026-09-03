@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashish+Chhetrio+%F0%9F%91%8B;I'm+always+a+beginner.;BSc.+CSIT+Student;Frontend+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashish+Chhetri+%F0%9F%91%8B;I'm+always+a+beginner.;BSc.+CSIT+Student;Frontend+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 *“I’m always a beginner. There is endless knowledge out there, and I’m ready to absorb it.”*
 
@@ -49,14 +49,14 @@ I am a passionate tech student and developer based in Nepal. I believe that main
 
 ## 📈 GitHub Stats
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to activate these live stats!)*
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishChhetri2019&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishChhetri2019&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Streak" />
 </div>
 
 ---
 
-> *"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young."* — **Never Give Up.**
+> *"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young."* 
