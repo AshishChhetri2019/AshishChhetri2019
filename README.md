@@ -15,11 +15,8 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate tech student and developer based in Nepal. I believe that maintaining a beginner's mindset is the ultimate key to growth. Whether it's designing clean user interfaces or diving into backend logic, I am constantly pushing myself to learn, adapt, and build. 
-
+I am a passionate tech student and developer based in Nepal. I believe that maintaining a beginner's mindset is the ultimate key to growth.
 * 🎓 **Education:** Currently pursuing my **BSc. CSIT** from Tribhuvan University at Bhairahawa Multiple Campus. I completed my high school education at Kalika Manavgyan Secondary School.
-* 💡 **Mindset:** *"It does not matter how slowly you go as long as you do not stop."* – Confucius 
-* 🚀 **Goal:** To continuously expand my stack, tackle complex problems, and never give up on the process of learning.
 
 ---
 
